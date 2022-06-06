@@ -1,0 +1,8 @@
+/snap/clion/189/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/189/bin/ninja/linux/ninja -G Ninja -S /home/iotuser/CLionProjects/cv_test01 -B /home/iotuser/CLionProjects/cv_test01/cmake-build-debug
+CMake Error at CMakeLists.txt:11 (target_link_libraries):
+  Cannot specify link libraries for target "cv_test01opencv_calib3d" which is
+  not built by this project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/iotuser/CLionProjects/cv_test01/cmake-build-debug/CMakeFiles/CMakeOutput.log".

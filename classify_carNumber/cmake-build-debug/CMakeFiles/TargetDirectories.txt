@@ -1,0 +1,3 @@
+/home/iotuser/CLionProjects/classify_carNumber/cmake-build-debug/CMakeFiles/classify_carNumber.dir
+/home/iotuser/CLionProjects/classify_carNumber/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/iotuser/CLionProjects/classify_carNumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir

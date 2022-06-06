@@ -1,0 +1,3 @@
+/home/iotuser/CLionProjects/paintingtool_0425/cmake-build-debug/CMakeFiles/paintingtool_0425.dir
+/home/iotuser/CLionProjects/paintingtool_0425/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/iotuser/CLionProjects/paintingtool_0425/cmake-build-debug/CMakeFiles/rebuild_cache.dir

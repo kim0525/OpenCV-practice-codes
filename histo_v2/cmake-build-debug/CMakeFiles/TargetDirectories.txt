@@ -1,0 +1,3 @@
+/home/iotuser/CLionProjects/histo_v2/cmake-build-debug/CMakeFiles/histo_v2.dir
+/home/iotuser/CLionProjects/histo_v2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/iotuser/CLionProjects/histo_v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
